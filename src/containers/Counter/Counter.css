@@ -1,0 +1,21 @@
+.Counter {
+    padding: 50px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn {
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px 5px;
+    margin: auto;
+    display: flex; 
+    justify-content: center;
+    background-color: black;
+    box-shadow: 0 2px 2px #ccc;
+}
